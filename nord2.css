@@ -98,7 +98,7 @@
    /* buttons */
    --button-background: #2a3439;
    --button-background-hover: #354249;
-   --button-background-active: #4d5f68;
+   --button-background-active: #354249;
    --button-accent: var(--accent-color);
    --button-accent-hover: #d2f3ff;
    --button-accent-active: #4C566A;
