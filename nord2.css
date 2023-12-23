@@ -76,17 +76,17 @@
    --background-modifier-accent: transparent;
    --background-message-hover: transparent;
    /* text */
-   --text-normal: var(--accent-color);
-   --text-positive: var(--text-normal);
+   --text-normal: #D8DEE9;
+   --text-positive: #D8DEE9;
    --text-muted: #D8DEE9;
    --text-link: #edf8fe;
-   --interactive-selected: var(--background-primary);
-   --interactive-active: var(--text-normal);
-   --interactive-normal: var(--text-normal);
-   --interactive-muted: var(--button-background-active);
-   --channels-default: var(--text-muted);
-   --header-primary: var(--text-normal);
-   --header-secondary: var(--text-muted);
+   --interactive-selected: #D8DEE9;
+   --interactive-active: #D8DEE9;
+   --interactive-normal: #D8DEE9;
+   --interactive-muted: #D8DEE9;
+   --channels-default: #D8DEE9;
+   --header-primary: #D8DEE9;
+   --header-secondary: #D8DEE9;
    /* more */
    --settings-icon-color: #8eacbc;
    --control-brand-foreground: var(--accent-color);
